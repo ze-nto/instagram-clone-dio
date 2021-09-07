@@ -1,4 +1,4 @@
-# Intagram Login Page Clone
+# Intagram's Login Page Clone
 
 The goal of this exercise was cloning the Intagram's login page using HTML and CSS3.
 We use flexbox positioning technique.
